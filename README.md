@@ -1,4 +1,4 @@
-# VB6 with ADO/SQL and VBA to Word-example
+# VB6 with ADO/SQL and VBA to Word example
 
 embedded SQL to link to MS Access and embedded VBA for report output. Created to help me output evidence during teacher training course at university. Strong use of coding conventions and techniques, producing readable and maintainable algorithms.
 
